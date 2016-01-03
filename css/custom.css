@@ -1,0 +1,47 @@
+span.step {
+  text-align: center;
+  display: inline-block;
+  width: 150px;
+  text-align: center;
+  border: 3px solid #fff;
+  padding: 5px 15px;
+  margin: 10px 5px;
+  box-shadow: none;
+}
+
+span.step-over {
+  background-color: blue;
+  border-color: blue;
+}
+
+.step-trap {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.grid-code {
+  background: #333;
+  text-align: left;
+  width: 100%;
+}
+
+.grid__2 {
+  float: left;
+  width: 50%;
+  box-sizing: border-box;
+  padding: 0 25px !important;
+}
+
+.reveal code {
+  font-family: "Inconsolata","Monaco","Consolas","Andale Mono","Bitstream Vera Sans Mono","Courier New",Courier,monospace;
+  display: block;
+  margin: 0 0 0 60px;
+  padding: 15px 16px 14px !important;
+  overflow-x: auto;
+  font-size: 1.5rem;
+  line-height: 25px;
+  color: #ddd;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  overflow: hidden;
+}
