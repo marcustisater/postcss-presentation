@@ -45,3 +45,15 @@ span.step-over {
   word-wrap: break-word;
   overflow: hidden;
 }
+
+img {
+  box-shadow: none;
+  border: 0;
+  background: none;
+  padding: 15px !important;
+  margin: 15px;
+}
+
+.twitter-tweet {
+  float: left;
+}
